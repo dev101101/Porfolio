@@ -14,7 +14,7 @@ const Home = () => {
                 <img className=" max-w-96 pixel-corners--wrapper" src="Daigo.png" alt="diego" />
               </picture>
                 <p>
-                    I am a <span className="text-blue-400">Backend-focused Software Engineer</span> with a solid track record of building scalable and efficient applications since 2022. My core ecosystem is built on **Node.js and Express**, where I architect robust server-side logic and manage relational databases such as **MySQL and SQLite**. On the client side, I have extensive experience using **React** to develop dynamic and interactive user interfaces.
+                    I am a <span className="text-yellow-400">Software Engineer</span> with a solid track record of building scalable and efficient applications since 2022. My core ecosystem is built on <a className="text-emerald-400">Node.js</a> , where I architect robust server-side logic and manage relational databases such as <span className="text-blue-400">MySQL </span>and <span className="text-blue-400">SQLite.</span> On the client side, I have extensive experience using <span className="text-cyan-400">React.</span> to develop dynamic and interactive user interfaces.
                 </p>
 
                 <p>

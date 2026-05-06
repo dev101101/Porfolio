@@ -4,7 +4,7 @@ const Footer = () => {
             <p>
                 © Diego Amachi 2023 - {new Date().getFullYear()}
             </p>
-            <a href="https://github.com/dev101101/Porfolio" > View website source on GitHub</a>
+            <a  href="https://github.com/dev101101/Porfolio" target="_blank" > View website source on GitHub</a>
         </footer>
     )
 }
